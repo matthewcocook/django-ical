@@ -36,7 +36,7 @@ ICAL_EXTRA_FIELDS = [
     "exdate",  # exdate
     "status",  # CONFIRMED|TENTATIVE|CANCELLED
     "attendee",  # list of attendees
-    'html_description', # html descriptions
+    "html_description",  # html descriptions
 ]
 
 
